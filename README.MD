@@ -14,7 +14,9 @@ Perfect for quickly grabbing the newest version of tools, CLIs, or binaries (e.g
 - Optional auto-run after download (Windows)
 
 ---
+
 ## Usage
+
 ```bash
 python gh_fetch.py <repo> <asset_regex> [output_dir] [--run]
 

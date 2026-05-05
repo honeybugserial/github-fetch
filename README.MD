@@ -14,11 +14,13 @@ Perfect for quickly grabbing the newest version of tools, CLIs, or binaries (e.g
 - Optional auto-run after download (Windows)
 
 ---
+## Usage
+```bash
+python gh_fetch.py <repo> <asset_regex> [output_dir] [--run]
 
-## Installation
-
-1. Download the script:
+## Examples
 
 ```bash
-git clone repo
-python gh_fetch.py
+python gh_fetch.py majd/ipatool "darwin-amd64$"
+python gh_fetch.py rustdesk/rustdesk "x86_64\.exe$" --run
+

@@ -19,10 +19,11 @@ Perfect for quickly grabbing the newest version of tools, CLIs, or binaries (e.g
 
 ```bash
 python gh_fetch.py <repo> <asset_regex> [output_dir] [--run]
+```
 
 ## Examples
 
 ```bash
 python gh_fetch.py majd/ipatool "darwin-amd64$"
 python gh_fetch.py rustdesk/rustdesk "x86_64\.exe$" --run
-
+```

@@ -4,6 +4,8 @@ A simple, lightweight Python script to **download the latest GitHub release asse
 
 Perfect for quickly grabbing the newest version of tools, CLIs, or binaries (e.g. `ipatool`, `winUpdateMiniTool`, etc.) without manually navigating GitHub releases.
 
+![gh_fetch screenshot](https://github.com/honeybugserial/github-fetch/blob/main/screenshot.png?raw=true)
+
 ---
 
 ## Features

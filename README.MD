@@ -6,6 +6,8 @@ Perfect for quickly grabbing the newest version of tools, CLIs, or binaries (e.g
 
 ![gh_fetch screenshot](https://github.com/honeybugserial/github-fetch/blob/main/screenshot.png?raw=true)
 
+gluten free and gender neutral
+
 ---
 
 ## Features
